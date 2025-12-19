@@ -1,0 +1,5 @@
+{
+  "name": "SkyLog - Your Personal Flight Tracker",
+  "description": "An application for travelers to effortlessly log, track, and visualize their flight history. Input flight details and see your travel journey come to life with automatic data enrichment and engaging visualizations.",
+  "requestFramePermissions": []
+}
